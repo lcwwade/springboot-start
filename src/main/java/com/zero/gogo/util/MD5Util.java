@@ -1,4 +1,4 @@
-package com.zero.mmall.util;
+package com.zero.gogo.util;
 
 import java.security.MessageDigest;
 

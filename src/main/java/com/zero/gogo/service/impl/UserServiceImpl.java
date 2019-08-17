@@ -1,9 +1,10 @@
-package com.zero.mmall.service.impl;
+package com.zero.gogo.service.impl;
 
-import com.zero.mmall.common.ServerResponse;
-import com.zero.mmall.pojo.User;
-import com.zero.mmall.service.UserService;
-import com.zero.mmall.util.MD5Util;
+import com.zero.gogo.pojo.User;
+import com.zero.gogo.service.UserService;
+import com.zero.gogo.util.MD5Util;
+import com.zero.gogo.common.ServerResponse;
+import org.springframework.stereotype.Service;
 
 /**
  * @author: zero
@@ -11,6 +12,7 @@ import com.zero.mmall.util.MD5Util;
  * @time: 2019-08-08
  * @version: []
  */
+@Service
 public class UserServiceImpl implements UserService {
 
 

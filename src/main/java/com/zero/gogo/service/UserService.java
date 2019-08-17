@@ -1,7 +1,7 @@
-package com.zero.mmall.service;
+package com.zero.gogo.service;
 
-import com.zero.mmall.common.ServerResponse;
-import com.zero.mmall.pojo.User;
+import com.zero.gogo.pojo.User;
+import com.zero.gogo.common.ServerResponse;
 
 /**
  * @author: zero

@@ -1,4 +1,4 @@
-package com.zero.mmall.pojo;
+package com.zero.gogo.pojo;
 
 import java.util.Date;
 

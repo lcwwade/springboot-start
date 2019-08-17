@@ -1,13 +1,16 @@
-package com.zero.mmall;
+package com.zero.gogo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ *
+ */
 @SpringBootApplication
-public class MmallApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MmallApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.zero.mmall.common;
+package com.zero.gogo.common;
 
 /**
  * @author: zero

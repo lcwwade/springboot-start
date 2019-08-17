@@ -1,4 +1,4 @@
-package com.zero.mmall.util;
+package com.zero.gogo.util;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
